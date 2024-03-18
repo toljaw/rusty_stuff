@@ -10,4 +10,5 @@ fn main() {
     // seit Rust 1.58 auch:
     let s3 = format!("Hello {name}, nice to meet you!");
     println!("{}", s3);
+    println!("{s3}");
 }
