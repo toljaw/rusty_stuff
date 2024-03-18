@@ -11,6 +11,10 @@ path = "src/02_01_print_types.rs"
 name = "02_02_variables"
 path = "src/02_02_variables.rs"
 
+[[bin]]
+name = "02_03_datatypes"
+path = "src/02_03_datatypes.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
