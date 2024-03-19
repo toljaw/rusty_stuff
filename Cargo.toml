@@ -35,6 +35,14 @@ path = "src/03_01_tuples.rs"
 name = "03_02_arrays"
 path = "src/03_02_arrays.rs"
 
+[[bin]]
+name = "03_03_slices"
+path = "src/03_03_slices.rs"
+
+[[bin]]
+name = "03_04_strings"
+path = "src/03_04_strings.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
