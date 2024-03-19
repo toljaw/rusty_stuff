@@ -23,6 +23,18 @@ path = "src/02_04_constants.rs"
 name = "02_05_shadowing"
 path = "src/02_05_shadowing.rs"
 
+[[bin]]
+name = "02_06_inputs"
+path = "src/02_06_inputs.rs"
+
+[[bin]]
+name = "03_01_tuples"
+path = "src/03_01_tuples.rs"
+
+[[bin]]
+name = "03_02_arrays"
+path = "src/03_02_arrays.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
