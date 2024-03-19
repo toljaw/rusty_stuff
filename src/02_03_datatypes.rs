@@ -15,9 +15,9 @@ fn main() {
 
     println!("{_x6}, {_x7}, {_x11}, {_x12}");
 
-    let _dec = 255;                     // Zuweisung eines Dezimal Wertes
+    let _dec = 255;                     // Zuweisung eines Dezimalwertes
     println!("{_dec}");
-    let _hex = 0xff;                    // Zuweisung eines Hexadezimal Wertes
+    let _hex = 0xff;                    // Zuweisung eines Hexadezimalwertes
     println!("{_hex}");
     let _bin = 0b11111111;              // Zuweisung eines Binärwertes
     println!("{_bin}");
