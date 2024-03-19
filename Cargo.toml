@@ -19,6 +19,10 @@ path = "src/02_03_datatypes.rs"
 name = "02_04_constants"
 path = "src/02_04_constants.rs"
 
+[[bin]]
+name = "02_05_shadowing"
+path = "src/02_05_shadowing.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
