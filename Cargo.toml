@@ -43,6 +43,10 @@ path = "src/03_03_slices.rs"
 name = "03_04_strings"
 path = "src/03_04_strings.rs"
 
+[[bin]]
+name = "03_05_ifs"
+path = "src/03_05_ifs.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
