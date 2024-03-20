@@ -51,6 +51,10 @@ path = "src/03_05_ifs.rs"
 name = "03_06_loops"
 path = "src/03_06_loops.rs"
 
+[[bin]]
+name = "03_07_functions"
+path = "src/03_07_functions.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
