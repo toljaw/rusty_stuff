@@ -7,7 +7,7 @@ enum PermissionLevel {
 
 impl PermissionLevel {
     fn description(&self) -> String {
-        match self {                                        // match: compare with switch from Python
+        match self {                                        // match: compare with match from Python
             PermissionLevel::User => String::from("I'm an User"),
             PermissionLevel::Instructor => String::from("I'm an Instructor"),
             PermissionLevel::Admin => String::from("I'm an Admin"),
