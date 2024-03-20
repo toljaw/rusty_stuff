@@ -67,6 +67,10 @@ path = "src/03_09_enum_match.rs"
 name = "03_10_matches"
 path = "src/03_10_matches.rs"
 
+[[bin]]
+name = "03_11_enums2"
+path = "src/03_11_enums2.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
