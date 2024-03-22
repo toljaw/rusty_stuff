@@ -83,6 +83,10 @@ path = "src/03_13_if_lets.rs"
 name = "03_14_options2"
 path = "src/03_14_options2.rs"
 
+[[bin]]
+name = "03_15_while_let"
+path = "src/03_15_while_let.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
