@@ -87,6 +87,10 @@ path = "src/03_14_options2.rs"
 name = "03_15_while_let"
 path = "src/03_15_while_let.rs"
 
+[[bin]]
+name = "03_16_strings2"
+path = "src/03_16_strings2.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
