@@ -75,6 +75,10 @@ path = "src/03_11_enums2.rs"
 name = "03_12_options"
 path = "src/03_12_options.rs"
 
+[[bin]]
+name = "03_13_if_lets"
+path = "src/03_13_if_lets.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
